@@ -1,0 +1,29 @@
+﻿<h1>Histories</h1>
+<table class="table table-striped">
+    <thead>
+        <div class="row">
+            <!--<th>Url</th>-->
+           
+            <div class="col-md-4">Statement</div>
+            <div class="col-md-4">Search Date</div>
+            <div class="col-md-2"><button id="deleteAllHistoryButton" data-bind="click:deleteAllHistory">Delete All History</button></div>
+        </div>
+    </thead>
+    <div data-bind="foreach: histories">
+        <div style ="display: block; margin-bottom: 5px; padding: 5px ; background-color: #E6E6E6 " " class="row">
+            
+            <div class="col-md-4"><a href="#" data-bind="text: statement,click:function(){$parent.onclick(statement)}"></a>
+            </div>
+            <div class="col-md-4" data-bind="text: searchDate"></div>
+            <div class="col-md-2">
+
+                <a href="#delete" class="btn btn-xs btn-danger" data-bind="click:function(){$parent.deleteSingleHistory(id)}"><span class="glyphicon glyphicon-trash"></span></a>
+            </div>
+
+        </div>
+       
+    </div>
+</table>
+
+
+

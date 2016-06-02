@@ -1,0 +1,42 @@
+﻿<h1>Related Posts</h1>
+<table>
+    <thead>
+        <div class="row">
+            <!--<th>Url</th>-->
+            <div class="col-md-1 ">Id</div>
+            <div class="col-md-2 ">Title</div>
+            <div class="col-md-3 ">Body</div>
+            <div class="col-md-2 ">Tags</div>
+            <div class="col-md-2 ">See the Comments</div>
+            <div class="col-md-2 "></div>
+            <!--<th>Annotation</th>-->
+            <!--<th data-bind="visible:anyMarked">Annotation</th>-->
+        </div>
+    </thead>
+    <div data-bind="foreach: relatedPosts">
+        <div style="display : block; margin-bottom :5px; padding :5px; background-color :#E6E6E6" class="row">
+
+            <div class="col-md-1 " data-bind="text: Id"></div>
+            <div class="col-md-2 " data-bind="text: Title"></div>
+            <div class="col-md-3 " data-bind="html: Body"></div>
+            <div class="col-md-2 " data-bind="text: Tags"></div>
+            <!--<td ><div data-bind="component: {name:'comments', params:{postId: Id}}"></div></td>-->
+            <!--<td><button data-bind="click:$parent.onclick">Get This Post</button></td>
+            <td><input type="checkbox" data-bind="checked:IsMarked"/></td>
+            <td><input type="text" data-bind="visible:IsMarked,value:$parent.noteToAdd"/></td>
+            <td>
+                <button data-bind="visible:IsMarked,click:function(){$parent.addMarkedPost(Id,$parent.noteToAdd)}">Add to Marked Ones</button>
+            </td>-->
+            <div class="col-md-2 ">
+                <input type="checkbox" data-bind="checked:isChecked" />
+            </div>
+
+
+            <div class="col-md-2 " data-bind="component: {name:'comments', params:{postId: Id}},visible:isChecked">
+
+            </div>
+
+
+        </div>
+    </div>
+</table>

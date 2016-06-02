@@ -1,0 +1,42 @@
+﻿<h1>Post</h1>
+<table class="table table-striped">
+
+
+
+    <thead>
+        <div class="row">
+            <!--<th>Url</th>-->
+            <div class="col-md-1">Id</div>
+            <div class="col-md-2">Title</div>
+            <div class="col-md-3">Body</div>
+          
+            <div class="col-md-2">Buttons</div>
+            <div class="col-md-1">Select This Post</div>
+            <!--<th>Annotation</th>-->
+            <div class="col-md-2" data-bind="visible:anyMarked">Annotation</div>
+        </div>
+    </thead>
+    <div data-bind="foreach: searchResults">
+        <div style=" display: block; margin-bottom: 5px; padding: 5px; background-color: #E6E6E6 " class="row" >
+            <div class="col-md-1" data-bind="text: Id"></div>
+            <div class="col-md-2" data-bind="text: Title"></div>
+            <div class="col-md-3" data-bind="html: Body"></div>
+           
+
+            <!--<td ><div data-bind="component: {name:'comments', params:{postId: Id}}"></div></td>-->
+
+            <div class="col-md-2">
+                <button data-bind="click:function(){$parent.onclick(Id)}">Get This Post</button>
+            </div>
+            <div class="col-md-1">
+                <input type="checkbox" data-bind="checked:IsMarked" />
+            </div>
+            <div class="col-md-2">
+                <input type="text" data-bind="visible:IsMarked,value:$parent.noteToAdd" />
+            </div>
+            <div class="col-md-1">
+                <button data-bind="visible:IsMarked,click:function(){$parent.addMarkedPost(Id,$parent.noteToAdd)}">Add to Marked Ones</button>
+            </div>
+        </div>
+    </div>
+</table>

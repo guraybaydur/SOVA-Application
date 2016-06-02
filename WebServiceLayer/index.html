@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <!--<link href="Content/site.css" rel="stylesheet" />-->
+</head>
+<body>
+    <script data-main="scripts/main" src="scripts/lib/require.js"></script>
+    <div class="container-fluid">
+        <div data-bind="component: {name: menuComponent, params: {currentComponent: currentComponent,currentParams:currentParams}}"></div>
+    </div>
+    <div class="container-fluid">
+        <div data-bind="component:  {name: currentComponent, params: currentParams}"></div>
+    </div>
+
+</body>
+</html>

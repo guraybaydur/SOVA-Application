@@ -1,0 +1,10 @@
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\DomainModel\bin\Debug\DomainModel.dll
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\DomainModel\bin\Debug\DomainModel.pdb
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\DomainModel\obj\Debug\DomainModel.dll
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\DomainModel\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\DomainModel\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\Güray\Desktop\DomainModel\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Desktop\DomainModel\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\Güray\Desktop\DomainModel\DomainModel\obj\Debug\DomainModel.pdb

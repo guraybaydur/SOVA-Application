@@ -1,0 +1,24 @@
+﻿
+<h1>Comments</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <!--<th>Url</th>-->
+            <th>PostId</th>
+            <th>Text</th>
+            <th>Id</th>
+
+        </tr>
+    </thead>
+    <!--<div data-bind="if:comments().length>0">-->
+    <tbody data-bind="foreach: comments">
+        <tr>
+            <td data-bind="text: postId"></td>
+            <td data-bind="text: text"></td>
+            <td data-bind="text: id"></td>
+        </tr>
+    </tbody>
+    
+    <!--</div>-->
+
+</table>

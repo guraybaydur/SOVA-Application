@@ -1,0 +1,156 @@
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\ApplicationInsights.config
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\csc.exe
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\vbc.exe
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\VBCSCompiler.exe
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\WebServiceLayer.dll.config
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\WebServiceLayer.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\WebServiceLayer.pdb
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\AutoMapper.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\DomainModel.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\EntityFramework.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\EntityFramework.SqlServer.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.Web.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.ServiceLocation.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.Configuration.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\MySql.Data.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\MySql.Data.Entity.EF6.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\MySqlDatabase.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\MySqlDatabaseInterfaces.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Newtonsoft.Json.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Net.Http.Formatting.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Helpers.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Http.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Http.WebHost.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Mvc.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Razor.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Webpages.Deployment.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Webpages.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Webpages.Razor.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Unity.WebApi.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\DomainModel.pdb
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\MySqlDatabaseInterfaces.pdb
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\MySqlDatabase.pdb
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\AutoMapper.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\EntityFramework.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\EntityFramework.SqlServer.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.Web.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.ServiceLocation.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.Configuration.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Razor.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Webpages.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Webpages.Deployment.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Webpages.Razor.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Helpers.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Mvc.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\Newtonsoft.Json.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Net.Http.Formatting.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Http.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\bin\System.Web.Http.WebHost.xml
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\obj\Debug\WebServiceLayer.csprojResolveAssemblyReference.cache
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\obj\Debug\WebServiceLayer.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\WebServiceLayer\obj\Debug\WebServiceLayer.pdb
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\ApplicationInsights.config
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\csc.exe
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\vbc.exe
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\WebServiceLayer.dll.config
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\WebServiceLayer.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\WebServiceLayer.pdb
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\AutoMapper.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\DomainModel.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\EntityFramework.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\EntityFramework.SqlServer.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.Web.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\MySql.Data.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\MySqlDatabase.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\MySqlDatabaseInterfaces.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Newtonsoft.Json.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Net.Http.Formatting.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Helpers.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Http.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Http.WebHost.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Mvc.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Razor.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Webpages.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Unity.WebApi.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\DomainModel.pdb
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\MySqlDatabaseInterfaces.pdb
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\MySqlDatabase.pdb
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\AutoMapper.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\EntityFramework.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\EntityFramework.SqlServer.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.Web.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Razor.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Webpages.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Helpers.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Mvc.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\Newtonsoft.Json.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Net.Http.Formatting.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Http.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\bin\System.Web.Http.WebHost.xml
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\obj\Debug\WebServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\obj\Debug\WebServiceLayer.dll
+C:\Users\Güray\Desktop\DomainModel\WebServiceLayer\obj\Debug\WebServiceLayer.pdb
